@@ -1,2 +1,5 @@
 # HTML-CSS-JavaScript
-Criação de site com HTML, CSS e JavaScript.
+## Criação do website AmiguNovelo, utilizando HTML, CSS e JavaScript
+O projeto apresenta o catálogo para criação e venda de amigurumis.
+
+### Veja como o site ficou na versão desktop, a versão mobile ainda está em desenvolvimento https://amigunovelo.000webhostapp.com/
